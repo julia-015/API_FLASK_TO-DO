@@ -1,0 +1,19 @@
+html::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    /* background-color: rgb(117, 1, 144); */
+    background-color: #e07cc2;
+    z-index: -1;
+}
+
+.botão{
+    background-color: #c4108e;
+    color: #FFFFFF;
+}
+
+*{
+    font-family: 'Playpen Sans', cursive;
+    color: #c4108e;
+}
